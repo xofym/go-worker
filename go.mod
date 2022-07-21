@@ -1,4 +1,4 @@
-module github.com/xyfom/go-worker
+module github.com/xofym/go-worker
 
 go 1.13
 
